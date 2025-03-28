@@ -8,11 +8,12 @@ local Library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/
 --<>----<>----<>----<>----<>----<>----<>--
 pcall(function()
     for i, v in pairs(getconnections(game:GetService("ScriptContext").Error)) do
-        v:Disable();
-    end;
-end);
---<>----<>----<>----<>----<>----<>----<>--
 Auto Snitch on Roles
+        
+end);end);
+
+--<>----<>----<>----<>----<>----<>----   --<>----<>----<>----<>----<>----<>----   
+
 --<>----<>----<>----<>----<>----<>----<>--
 local Workspace = game:GetService('Workspace');
 local ReplicatedStorage = game:GetService('ReplicatedStorage');
