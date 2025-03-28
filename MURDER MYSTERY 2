@@ -12,7 +12,7 @@ pcall(function()
     end;
 end);
 --<>----<>----<>----<>----<>----<>----<>--
-
+Auto Snitch on Roles
 --<>----<>----<>----<>----<>----<>----<>--
 local Workspace = game:GetService('Workspace');
 local ReplicatedStorage = game:GetService('ReplicatedStorage');
