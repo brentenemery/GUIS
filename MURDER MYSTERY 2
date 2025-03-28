@@ -1,19 +1,4 @@
---<>----<>----<>----<>----<>----<>----<>--
-repeat wait() until game:IsLoaded() wait()
-    game:GetService("Players").LocalPlayer.Idled:connect(function()
-    game:GetService("VirtualUser"):ClickButton2(Vector2.new());
-end);
---<>----<>----<>----<>----<>----<>----<>--
-local Library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/Shamrock/main/MainLibrary", true))();
---<>----<>----<>----<>----<>----<>----<>--
-pcall(function()
-    for i, v in pairs(getconnections(game:GetService("ScriptContext").Error)) do
-Auto Snitch on Roles
-        
-end);end);
-
---<>----<>----<>----<>----<>----<>----   --<>----<>----<>----<>----<>----<>----   
-
+C
 --<>----<>----<>----<>----<>----<>----<>--
 local Workspace = game:GetService('Workspace');
 local ReplicatedStorage = game:GetService('ReplicatedStorage');
@@ -21,6 +6,11 @@ local Players = game:GetService('Players');
 local Client = Players.LocalPlayer;
 local RunService = game:GetService('RunService');
 local Workspace = game:GetService("Workspace");
+local Workspace = game:GetService("Workspace");
+local Workspace = game:GetService("Workspace");
+local Workspace = game:GetService("Workspace");
+local Workspace = game:GetService("Workspace");
+local Workspace = game:GetService("Workspace"
 local Lighting = game:GetService("Lighting");
 local UIS = game:GetService("UserInputService");
 local Teams = game:GetService("Teams");
